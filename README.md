@@ -1,7 +1,5 @@
 <h1><i>Olá, eu sou o Thiago! :brazil:</i></h1>
 
-<h2> Tenho 17 anos e possuo habilidades em HTML e CSS, e no momento estou aprendendo Javascript. Os meus contatos vão estar logo abaixo para caso queira entrar em contato:</h2>
+<h2> HTML e CSS é comigo mesmo, no momento estou aprendendo Javascript para realizar um sonho de ser programador Full-Stack( é um caminho difícil mas... aos pouquinhos a gente chega no nosso objetivo).</h2>
+<h2>O meu e-mail é esse --> thiagofer2003@outlook.com, caso queira entrar em contato. É nois :sunglasses:</h2>
 
-<a href="https://www.linkedin.com/in/iamthiagoferreira/">Linkedin</a><br>
-<a href="https://www.facebook.com/profile.php?id=100004460528191">Facebook</a><br>
-<a href="https://www.instagram.com/iamthiagooo/">Instagram</a>
