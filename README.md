@@ -4,9 +4,7 @@
 
 - 💬 Ask me about **HTML5 and CSS3**
 
-- 📫 How to reach me **thiagofer2003@outlook.com**
-
-- ⚡ Fun fact **I love Pizza**
+- 📫 How to reach me **devthiagoferreira@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
