@@ -1,5 +1,4 @@
-
-<span style="display:block;text-align:center">![fundogithub](https://user-images.githubusercontent.com/69599810/117591326-73788680-b10a-11eb-9587-af57a3ddaf80.png)</span>
+![fundogithub](https://user-images.githubusercontent.com/69599810/117591326-73788680-b10a-11eb-9587-af57a3ddaf80.png)
 
 - 🌱 I’m currently learning **more about Javascript**
 
