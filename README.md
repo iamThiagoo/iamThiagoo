@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thiago Ferreira</h1>
-<h3 align="center">I'm a front-end development student</h3>
+![fundogithub](https://user-images.githubusercontent.com/69599810/117591326-73788680-b10a-11eb-9587-af57a3ddaf80.png)
 
 - 🌱 I’m currently learning **more about Javascript**
 
