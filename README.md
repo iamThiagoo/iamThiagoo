@@ -1,4 +1,4 @@
-![Fundo Github](https://user-images.githubusercontent.com/69599810/117591858-ade32300-b10c-11eb-9295-4ca955c8c76b.png)
+![Fundo Github](https://user-images.githubusercontent.com/69599810/117592415-c8b69700-b10e-11eb-86ad-b74a7964c53f.png)
 
 - 🌱 I’m currently learning **more about Javascript**
 
