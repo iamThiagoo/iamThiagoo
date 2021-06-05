@@ -1,18 +1,17 @@
-![Fundo Github](https://user-images.githubusercontent.com/69599810/117592415-c8b69700-b10e-11eb-86ad-b74a7964c53f.png)
+<div align="center">
+    <h1>Hello 👋 I'm Thiago </h1>
+    <h3> Front-End developer from Caxias do Sul, Brasil</h3>
+    <p>I'm currently 17 years old and it's been 3 months since I started studying in the technology field. I intend to enroll myself and start the College of Analysis and Systems  Development when I finish college but for now I'm studying and doing my projects.</p>
+    <h3>Skills and Knowledge</h3>
+    <a href="https://www.w3schools.com/html/"><img height="60" width="60" alt="HTML5" src="https://user-images.githubusercontent.com/69599810/120908031-f672fb00-c63c-11eb-90a8-14ea7b057273.png"></a>
+    <a href="https://www.w3schools.com/css/"><img height="60" width="60" alt="CSS3" src="https://user-images.githubusercontent.com/69599810/120907921-12c26800-c63c-11eb-9439-8a9a426045e6.png"></a>
+    <a href="https://getbootstrap.com/"><img height="60" width="60" alt="Bootstrap" src="https://user-images.githubusercontent.com/69599810/120908196-4a321400-c63e-11eb-9e72-6eebd74b0553.png"></a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img height="60" width="60" alt="JavaScript" src="https://user-images.githubusercontent.com/69599810/120907942-4f8e5f00-c63c-11eb-975d-f93169f9e548.png"></a>
+    <a href="https://git-scm.com/"><img height="60" width="60" alt="Git" src="https://user-images.githubusercontent.com/69599810/120907954-646af280-c63c-11eb-8590-d926180797a5.png"></a>
+    <br>
+    <h3>Contact with me</h3>
+<a href="https://www.linkedin.com/in/iamthiagoferreira/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto: devthiagoferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
 
-- 🌱 I’m currently learning **more about Javascript**
-
-- 💬 Ask me about **HTML5 and CSS3**
-
-- 📫 How to reach me **devthiagoferreira@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/iamthiagoferreira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/iamthiagoferreira/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamthiagoo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iamthiagoo" /></p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthiagoo&layout=compact&border_color=1892FF&border_radius=4&bg_color=000000&text_color=51ADFF&title_color=51ADFF)](https://github.com/anuraghazra/github-readme-stats)
