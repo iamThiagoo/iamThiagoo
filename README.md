@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hello 👋 I'm Thiago </h1>
-    <h3> Front-End developer from Caxias do Sul, Brasil</h3>
+    <h3> Front-End developer from Caxias do Sul, Brazil</h3>
     <p>I'm currently 17 years old and it's been 3 months since I started studying in the technology field. I intend to enroll myself and start the College of Analysis and Systems  Development when I finish college but for now I'm studying and doing my projects.</p>
     <h3>Skills and Knowledge</h3>
     <a href="https://www.w3schools.com/html/"><img height="60" width="60" alt="HTML5" src="https://user-images.githubusercontent.com/69599810/120908031-f672fb00-c63c-11eb-90a8-14ea7b057273.png"></a>
