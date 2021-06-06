@@ -12,6 +12,10 @@
     <h3>Contact with me</h3>
 <a href="https://www.linkedin.com/in/iamthiagoferreira/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto: devthiagoferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+</div><br>
+
+## <img align="left" alt="gif para descontrair" height="250" src="https://media.giphy.com/media/de5bARu0SsXiU/giphy.gif">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthiagoo&layout=compact&border_color=1892FF&border_radius=4&bg_color=000000&text_color=51ADFF&title_color=51ADFF)](https://github.com/anuraghazra/github-readme-stats)
+
+
