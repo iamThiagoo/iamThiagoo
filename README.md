@@ -16,4 +16,4 @@
 
 ## <img align="left" alt="gif para descontrair" height="250" src="https://media.giphy.com/media/de5bARu0SsXiU/giphy.gif">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthiagoo&layout=compact&border_color=27F2FF&border_radius=4&bg_color=000000&text_color=51ADFF&title_color=51ADFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthiagoo&layout=compact&border_color=6F4CD4&border_radius=4&bg_color=000000&text_color=51ADFF&title_color=51ADFF)](https://github.com/anuraghazra/github-readme-stats)
