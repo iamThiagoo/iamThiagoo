@@ -14,7 +14,7 @@
 <a href="mailto: devthiagoferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div><br>
 
-## <img align="left" alt="gif para descontrair" height="191" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
+## <img align="left" alt="gif para descontrair" height="191" src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif">
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iamthiagoo&theme=great-gatsby" align="right">
 
