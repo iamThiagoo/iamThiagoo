@@ -8,12 +8,14 @@
     <a href="https://getbootstrap.com/"><img height="60" width="60" alt="Bootstrap" src="https://user-images.githubusercontent.com/69599810/120908196-4a321400-c63e-11eb-9e72-6eebd74b0553.png"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img height="60" width="60" alt="JavaScript" src="https://user-images.githubusercontent.com/69599810/120907942-4f8e5f00-c63c-11eb-975d-f93169f9e548.png"></a>
     <a href="https://git-scm.com/"><img height="60" width="60" alt="Git" src="https://user-images.githubusercontent.com/69599810/120907954-646af280-c63c-11eb-8590-d926180797a5.png"></a>
-    <br>
+<br>   
     <h3>Contact with me</h3>
-<a href="https://www.linkedin.com/in/iamthiagoferreira/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto: devthiagoferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div><br>
+        <a href="https://www.linkedin.com/in/iamthiagoferreira/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="mailto: devthiagoferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<br>
+    
+<h3>Statistics about me</h3></div> 
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=iamthiagoo&theme=great-gatsby">
-</div>
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Thiago's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamthiagoo&theme=graywhite) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthiagoo&layout=compact&theme=graywhite) |
