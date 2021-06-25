@@ -10,12 +10,12 @@
     <a href="https://git-scm.com/"><img height="60" width="60" alt="Git" src="https://user-images.githubusercontent.com/69599810/120907954-646af280-c63c-11eb-8590-d926180797a5.png"></a>
 <br>   
     <h3>Contact with me</h3>
-        <a href="https://www.linkedin.com/in/iamthiagoferreira/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-        <a href="mailto: devthiagoferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+     <a href="https://www.linkedin.com/in/iamthiagoferreira/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+     <a href="mailto: devthiagoferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br>
-    
+   
 <h3>Statistics about me</h3></div> 
 
-| Wakatime Stats | Top Languages |
+| Coding Stats - Last 7 Days | Top Languages |
 | --- | --- |
 | ![Thiago's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamthiagoo&theme=graywhite) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthiagoo&layout=compact&theme=graywhite) |
