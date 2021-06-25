@@ -16,6 +16,6 @@
     
 <h3>Statistics about me</h3></div> 
 
-| Github Stats | Top Languages |
+| Wakatime Stats | Top Languages |
 | --- | --- |
 | ![Thiago's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamthiagoo&theme=graywhite) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthiagoo&layout=compact&theme=graywhite) |
