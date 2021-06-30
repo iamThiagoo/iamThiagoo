@@ -18,4 +18,4 @@
 
 | Coding Stats - Last 7 Days | Top Languages |
 | --- | --- |
-| ![Thiago's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamthiagoo&theme=graywhite) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthiagoo&layout=compact&theme=graywhite) |
+| ![Thiago's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamthiagoo&theme=nightowl) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthiagoo&layout=compact&theme=nightowl) |
