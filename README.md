@@ -14,8 +14,6 @@
      <a href="mailto: devthiagoferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br>
    
-<h3>Statistics about me</h3></div> 
+## <img align="left" alt="GIF para descontrair" height="250" src="https://media.giphy.com/media/de5bARu0SsXiU/giphy.gif">
 
-| Coding Stats - Last 7 Days | Top Languages |
-| --- | --- |
-| ![Thiago's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamthiagoo&theme=graywhite) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthiagoo&layout=compact&theme=graywhite) |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthiagoo&layout=compact&bg_color=0D1117&text_color=fff&border_color=06CEFF&title_color=5EB5CB)
