@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hello 👋 I'm Thiago </h1>
     <h3> Front-End Developer from Caxias do Sul, Brazil</h3>
-    <p>I'm currently 17 years old and it's been 3 months since I started studying in the technology field. I intend to enroll myself and start the College of Analysis and Systems  Development when I finish college but for now I'm studying and doing my projects.</p>
+    <p>I am currently 17 years old, I started studying and deepening myself in the technology area at the end of March/2021. I plan to enroll and enter the Faculty of Systems Analysis and Development when I finish High School, but for now I'm studying and doing my projects.</p>
     <h3>Skills and Knowledge</h3>
     <a href="https://www.w3schools.com/html/"><img height="60" width="60" alt="HTML5" src="https://user-images.githubusercontent.com/69599810/120908031-f672fb00-c63c-11eb-90a8-14ea7b057273.png"></a>
     <a href="https://www.w3schools.com/css/"><img height="60" width="60" alt="CSS3" src="https://user-images.githubusercontent.com/69599810/120907921-12c26800-c63c-11eb-9439-8a9a426045e6.png"></a>
