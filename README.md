@@ -10,8 +10,8 @@
     <a href="https://git-scm.com/"><img height="60" width="60" alt="Git" src="https://user-images.githubusercontent.com/69599810/120907954-646af280-c63c-11eb-8590-d926180797a5.png"></a>
 <br>   
     <h3>Contact with me</h3>
-     <a href="https://www.linkedin.com/in/iamthiagoferreira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="15.3%"></a>
-     <a href="mailto: devthiagoferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="12%"></a>
+     <a href="https://www.linkedin.com/in/iamthiagoferreira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="140px"></a>
+     <a href="mailto: devthiagoferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="110px"></a>
 <br>
    
 ## <img align="left" alt="GIF para descontrair" height="250" src="https://media.giphy.com/media/de5bARu0SsXiU/giphy.gif">
