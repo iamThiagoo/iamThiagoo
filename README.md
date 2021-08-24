@@ -16,4 +16,4 @@
    
 ## <img align="left" alt="GIF para descontrair" height="250" src="https://media.giphy.com/media/de5bARu0SsXiU/giphy.gif">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthiagoo&layout=compact&bg_color=0D1117&text_color=fff&border_color=06CEFF&title_color=5EB5CB)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthiagoo&layout=compact&theme=github_dark)
