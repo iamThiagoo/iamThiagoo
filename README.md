@@ -14,6 +14,6 @@
      <a href="mailto: devthiagoferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="110px"></a>
 <br>
    
-## <img align="left" alt="GIF para descontrair" height="250" src="https://media.giphy.com/media/de5bARu0SsXiU/giphy.gif">
+## <img align="left" alt="GIF para descontrair" height="240" src="https://media.giphy.com/media/de5bARu0SsXiU/giphy.gif">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthiagoo&layout=compact&theme=github_dark)
