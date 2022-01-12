@@ -16,4 +16,4 @@
    
 ## <img align="left" alt="GIF para descontrair" height="220" src="https://media.giphy.com/media/de5bARu0SsXiU/giphy.gif">
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamThiagoo&layout=compact&theme=graywhite)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamThiagoo&layout=compact&theme=algolia)
