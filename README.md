@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hello 👋 I'm Thiago </h1>
-    <h3> Front-End Developer from Caxias do Sul, Brazil</h3>
-    <p>I am currently 17 years old, I started studying and deepening myself in the technology field in April / 2021. I intend to join the "Análise e Desenvolvimento de Sistemas" course at college as soon as I finish high school, but for now I am studying and doing my projects.</p>
+    <h3> Full-Stack Developer from Caxias do Sul, Brazil</h3>
+    <p>I am currently 18 years old, I started studying and deepening myself in the technology field in April / 2021. I intend to join the "Análise e Desenvolvimento de Sistemas" course at college as soon as I finish high school, but for now I am studying and doing my projects.</p>
     <h3>Skills and Knowledge</h3>
     <a href="https://www.w3schools.com/html/"><img width="106" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="https://www.w3schools.com/css/"><img width="93" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
