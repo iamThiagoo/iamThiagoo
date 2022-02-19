@@ -8,6 +8,7 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img width="153" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
     <a href="https://www.php.net/"><img width="85" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
     <a href="https://www.mysql.com/"><img width="110" alt="PHP" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="https://www.postgresql.org/"><img width="158" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 <br>   
     <h3>Contact with me</h3>
      <a href="https://www.linkedin.com/in/iamthiagoferreira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="140px"></a>
