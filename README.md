@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hello 👋 I'm Thiago </h1>
+    <h1>Hello, I'm Thiago <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
     <h3> Web Developer from Caxias do Sul, Brazil</h3>
     <p>I'm currently 18 years old, I started studying and deepening myself in the technology field in April / 2021. I'm currently taking the "Análise e Desenvolvimento de Sistemas" course at college and working in the area.</p> 
     <h3>Skills and Knowledge</h3>
