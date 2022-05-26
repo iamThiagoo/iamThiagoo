@@ -19,5 +19,5 @@
 
 <div align="center">
     <img align="left" alt="GIF para descontrair" height="250" src="https://media.giphy.com/media/de5bARu0SsXiU/giphy.gif">&nbsp;
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamThiagoo&layout=compact&theme=gotham">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamThiagoo&layout=compact&theme=radical">
 </div>
