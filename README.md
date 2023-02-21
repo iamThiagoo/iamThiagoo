@@ -4,15 +4,15 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 Web Developer
 -------------
 
-I'm currently 19 years old, I started studying and deepening myself in the technology field in April / 2021. I'm currently taking the "Análise e Desenvolvimento de Sistemas" course at college and working in the area.
+Hello everyone, all right?
 
-* 🌍  I'm based in Caxias do Sul, Brazil
-* ✉️  You can contact me at [devthiagoferreira@gmail.com](mailto:devthiagoferreira@gmail.com)
-* 🚀  I'm currently working on [Plenatech](http://plena.tech/)
-* 🧠  I'm learning about Laravel and SASS/SCSS
+- I would like to introduce myself, as you saw my name is Thiago and I am currently 19 years old. I'm in the third semester of the "Systems Analysis and Development" course at FSG, Caxias do Sul (Brazil) and I love to work in this area.
+
+- My area of expertise is web development, so I have a lot of experience with PHP and Javascript. Lately I've been studying Laravel and SASS/SCSS a lot and I have plans to migrate to mobile development in a few years when I have more experience.
+
+- You can contact me through my [LinkedIn](https://www.linkedin.com/in/imthiagoferreira/) or my [Email](mailto:devthiagoferreira@gmail.com).
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -27,7 +27,3 @@ I'm currently 19 years old, I started studying and deepening myself in the techn
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.dev.to/iamthiagoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/iamThiagoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/imthiagoferreira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
