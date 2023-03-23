@@ -1,10 +1,10 @@
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> My name is Thiago Ferreira
+Hi, My name is Thiago Ferreira
 =======================================================================================================================================
 
 Web Developer
 -------------
 
-Hello everyone, all right?
+Hello everyone,
 
 - I would like to introduce myself, as you saw my name is Thiago and I am currently 19 years old. I'm in the third semester of the "Systems Analysis and Development" course at FSG, Caxias do Sul (Brazil) and I love to work in this area.
 
