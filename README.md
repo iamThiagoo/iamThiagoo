@@ -5,9 +5,9 @@ namespace Thiago\Ferreira;
 
 class About extends Me
 {
-    public function MyUser () : MyUser
+    public function getUser () : User
     {
-        $myUser = MyUser::updateOrCreate([
+        $user = App\Models\User::updateOrCreate([
             'name' => 'Thiago Ferreira'
         ], [
             'age' => 19,
@@ -16,10 +16,10 @@ class About extends Me
             'social_linkedin' => 'https://www.linkedin.com/in/imthiagoferreira/'
         ]);
         
-        return $myUser;
+        return $user;
     }
 
-    public function Experiences () : array
+    public function getExperiences () : array
     {
         return [
             'workplace' => [
@@ -30,7 +30,7 @@ class About extends Me
         ];
     }
 
-    public function FavoriteTechnologies () : array
+    public function getFavoriteTechnologies () : array
     {
         return [
             Laravel::class,
