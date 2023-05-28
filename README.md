@@ -5,9 +5,9 @@ namespace Thiago\Ferreira;
 
 class About extends Me
 {
-    public function User () : User
+    public function MyUser () : MyUser
     {
-        $myUser = User::updateOrCreate([
+        $myUser = MyUser::updateOrCreate([
             'name' => 'Thiago Ferreira'
         ], [
             'age' => 19,
@@ -25,7 +25,7 @@ class About extends Me
             'workplace' => [
                 'company' => 'Plenatech',
                 'position' => 'Web Developer',
-                'since_at' => '2022-01-17 00:00:00'
+                'since_at' => '2022-01-17'
             ]
         ];
     }
@@ -34,7 +34,7 @@ class About extends Me
     {
         return [
             Laravel::class,
-            PHP::class,
+            Php::class,
             JavaScript::class,
             TailwindCSS::class,
             Docker::class,
