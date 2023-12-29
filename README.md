@@ -10,7 +10,7 @@ class About extends Me
         $user = App\Models\User::updateOrCreate([
             'name' => 'Thiago Ferreira'
         ], [
-            'age' => 19,
+            'age' => 20,
             'country' => 'Brazil',
             'social_gmail' => 'devthiagoferreira@gmail.com',
             'social_linkedin' => 'https://www.linkedin.com/in/imthiagoferreira/'
