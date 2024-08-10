@@ -22,12 +22,12 @@ class About extends Me
     public function getExperiences () : array
     {
         return [
-            'workplace' => [
+            [
                 'company' => 'LOHR',
                 'position' => 'Full-Stack Developer',
                 'since_at' => '2024-07'
             ],
-            'workplace' => [
+            [
                 'company' => 'Plenatech',
                 'position' => 'Web Developer',
                 'since_at' => '2022-01',
