@@ -23,9 +23,15 @@ class About extends Me
     {
         return [
             'workplace' => [
+                'company' => 'LOHR',
+                'position' => 'Full-Stack Developer',
+                'since_at' => '2024-07'
+            ],
+            'workplace' => [
                 'company' => 'Plenatech',
                 'position' => 'Web Developer',
-                'since_at' => '2022-01-17'
+                'since_at' => '2022-01',
+                'exit_at' => '2024-07'
             ]
         ];
     }
@@ -33,13 +39,12 @@ class About extends Me
     public function getFavoriteTechnologies () : array
     {
         return [
-            Laravel::class,
             Php::class,
             JavaScript::class,
+            VueJS::class,
             TailwindCSS::class,
             Docker::class,
-            Linux::class,
-            VSCode::class
+            Linux::class
         ];
     }
 }
