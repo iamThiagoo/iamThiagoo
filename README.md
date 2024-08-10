@@ -23,12 +23,12 @@ class About extends Me
     {
         return [
             [
-                'company' => 'LOHR',
+                'company' => 'LOHR - Sistemas Eletrônicos',
                 'position' => 'Full-Stack Developer',
                 'since_at' => '2024-07'
             ],
             [
-                'company' => 'Plenatech',
+                'company' => 'Plenatech - Excelência em TI',
                 'position' => 'Web Developer',
                 'since_at' => '2022-01',
                 'exit_at' => '2024-07'
