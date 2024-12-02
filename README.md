@@ -5,38 +5,43 @@ namespace Thiago\Ferreira;
 
 class About extends Me
 {
-    public function getUser () : User
+    public function __construct()
+    {
+        parent::__construct();
+    }
+
+    public function getUser() : User
     {
         $user = App\Models\User::updateOrCreate([
             'name' => 'Thiago Ferreira'
         ], [
-            'age' => 20,
+            'age' => 21,
             'country' => 'Brazil',
-            'social_gmail' => 'devthiagoferreira@gmail.com',
-            'social_linkedin' => 'https://www.linkedin.com/in/imthiagoferreira/'
+            'email' => 'devthiagoferreira@gmail.com',
+            'linkedin' => 'https://www.linkedin.com/in/imthiagoferreira/'
         ]);
         
         return $user;
     }
 
-    public function getExperiences () : array
+    public function getExperiences(): array
     {
         return [
             [
                 'company' => 'LOHR - Sistemas Eletrônicos',
-                'position' => 'Full-Stack Developer',
-                'since_at' => '2024-07'
+                'position' => '👨‍💻 Full-Stack Developer',
+                'since_at' => '2024-07',
             ],
             [
                 'company' => 'Plenatech - Excelência em TI',
-                'position' => 'Web Developer',
+                'position' => '🌐 Web Developer',
                 'since_at' => '2022-01',
-                'exit_at' => '2024-07'
-            ]
+                'exit_at' => '2024-07',
+            ],
         ];
     }
 
-    public function getFavoriteTechnologies () : array
+    public function getFavoriteTechnologies(): array
     {
         return [
             Php::class,
@@ -44,7 +49,7 @@ class About extends Me
             VueJS::class,
             TailwindCSS::class,
             Docker::class,
-            Linux::class
+            Linux::class,
         ];
     }
 }
