@@ -1,3 +1,5 @@
-<div style="width: 100%; height: 200px; position: relative; overflow: hidden;" width="100%">
-  <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI4NzMwNzEsIm5iZiI6MTc0Mjg3Mjc3MSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI1VDAzMTkzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBjOWQzNWFiMWFmOWU3ZWU1ODFmYjM3MzE3ZWRkMDlmY2NiN2E3ZGIwZmYxMWM5MzA1YjY5MWY2MjhlNTg4MGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ivBkMSlCMBvHpUz1MGW4jy7aUc7pp9t7cnwxARgVVAM" style="width: 100%; height: 500px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" />
-</div>
+# Thiago Ferreira
+
+Desenvolvedor Full-Stack
+
+Sou um profissional com mais de 3 anos de experiências, curto estudar e testar tech's que estão fora do meu cotidiano e guardar por aqui... então aqui você possivelmente encontrará um pouco de tudo nesse perfil. 👌
