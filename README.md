@@ -1,5 +1,5 @@
 # Thiago Ferreira
 
-Desenvolvedor Full-Stack
+Full-Stack Developer
 
-Sou um profissional com mais de 3 anos de experiência, curto estudar e testar tech's que estão fora do meu cotidiano e guardar por aqui... então aqui você possivelmente encontrará um pouco de tudo. 👌
+I'm a professional with over 3 years of experience. I enjoy studying and testing technologies outside my daily routine and saving them here... so you'll probably find a bit of everything here. 👌
