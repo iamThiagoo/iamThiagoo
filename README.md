@@ -2,7 +2,7 @@
 
 Full-Stack Developer
 
-I enjoy studying and testing technologies outside my daily routine and saving them here. So you'll probably find a bit of everything here. 👌
+I enjoy studying and testing technologies outside my daily routine and saving them here. So you’ll find a bit of everything here 👌
 
 <details>
   <summary><b>Stack</b></summary>
