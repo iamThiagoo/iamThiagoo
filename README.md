@@ -5,7 +5,7 @@ Full-Stack Developer based in Caxias do Sul (RS), Brazil.
 I enjoy studying and testing technologies outside my daily routine and saving them here. So you’ll find a bit of everything here 👌
 
 <details>
-  <summary><b>Stack</b></summary>
+  <summary><b>My Stack</b></summary>
   <br/>
 
   ![Node.js](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=white)
