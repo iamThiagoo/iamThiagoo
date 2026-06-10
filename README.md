@@ -1,7 +1,5 @@
 # Thiago Ferreira
 
-Back-End Developer based in Caxias do Sul (RS), Brazil.
-
 I enjoy studying and testing technologies outside my daily routine and saving them here. So you’ll find a bit of everything here 👌
 
 <details>
